@@ -1,7 +1,7 @@
 # Double-It Apllication
 #### made by Mojiboye Emmanuel
 
-#### Inut a number and have it doubled up
+#### Input a number and have it doubled up
 
 ## Technologies Used
 * Git
